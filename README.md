@@ -1,16 +1,54 @@
-## Hi there 👋
+### 👋 Hi there!
 
-<!--
-**chankey-pal/chankey-pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a web developer based in Noida.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🔭 Current Status**
+- Working on a food order project in core PHP
+- Learning REST API & Laravel
+
+---
+
+**💬 Ask me about:**
+- Web Development (PHP, OOP, AJAX, jQuery, JavaScript, MySQL, Bootstrap, HTML, CSS)
+- Traveling in Noida
+
+---
+
+**📫 How to reach me:**
+- **Email:** [chankeypal9897@gmail.com](mailto:chankeypal9897@gmail.com)
+- **LinkedIn:** [Chankey Pal](https://www.linkedin.com/in/chankey-pal-36a5261b5/)
+
+---
+
+**⚡ Fun fact:**
+- 👨🏼‍🍳 Can cook
+- ♥️ Love traveling
+### 👋 Hi there!
+
+I am a web developer based in Noida.
+
+---
+
+**🔭 Current Status**
+- Working on a food order project in core PHP
+- Learning REST API & Laravel
+
+---
+
+**💬 Ask me about:**
+- Web Development (PHP, OOP, AJAX, jQuery, JavaScript, MySQL, Bootstrap, HTML, CSS)
+- Traveling in Noida
+
+---
+
+**📫 How to reach me:**
+- **Email:** [chankeypal9897@gmail.com](mailto:chankeypal9897@gmail.com)
+- **LinkedIn:** [Chankey Pal](https://www.linkedin.com/in/chankey-pal-36a5261b5/)
+
+---
+
+**⚡ Fun fact:**
+- 👨🏼‍🍳 Can cook
+- ♥️ Love traveling
