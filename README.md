@@ -1,6 +1,6 @@
 ### 👋 Hi there!
 
-I am a web developer based in Noida.
+I am a web developer From in Noida.
 
 ---
 
