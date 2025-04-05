@@ -1,6 +1,6 @@
 ### 👋 Hi there!
 
-I am a web developer From  Noida.
+I am a PHP developer From  Noida.
 
 ---
 
